@@ -3,7 +3,7 @@
 I am Cem, a 22 years old developer from Germany.
 
 - 👨‍💻 Software Engineering Student at CODE University
-- 🪑 Founder at Klassekartgenerator
+- 🪑 Founder at [Klassekartgenerator](https://klassekartgenerator.no/)
 - ⌨️ Freelancer as Developer
 + and more
 
