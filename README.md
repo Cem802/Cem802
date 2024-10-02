@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Cem802/Cem802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Cem, a 22 years old developer from Germany.
 
-Here are some ideas to get you started:
+- 👨‍💻 Software Engineering Student at CODE University
+- 🪑 Founder at Klassekartgenerator
+- ⌨️ Freelancer as Developer
++ and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,php,docker,firebase,grafana,postman,react,supabase,sequelize,tailwind&perline=7" />
+  </a>
+</p>
+
+- Typescript, Javascript, python, php ...
+- React, Next.js, Node.js, React Native
+- Firebase services, supabase, docker, PostgreSQL
+
+### Contact
+- ckirciltepeli@gmail.com
+- @Cem802 on Discord
