@@ -10,12 +10,12 @@ I am Cem, a 22 years old developer from Germany.
 ### My skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,php,docker,firebase,grafana,postman,react,supabase,sequelize,tailwind&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,php,ruby,rails,docker,firebase,grafana,postman,react,supabase,sequelize,tailwind&perline=8" />
   </a>
 </p>
 
-- Typescript, Javascript, python, php ...
-- React, Next.js, Node.js, React Native
+- Typescript, Javascript, python, php, Ruby ...
+- React, Next.js, Node.js, React Native, Ruby on Rails
 - Firebase services, supabase, docker, PostgreSQL
 
 ### Contact
